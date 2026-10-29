@@ -1,5 +1,9 @@
 # ProofPass
 
+> A privacy-aware credential verification prototype that separates credential payloads, issuer proofs, and verifier policy.
+
+![ProofPass](assets/logo.svg)
+
 TypeScript model for issuing and verifying signed credential envelopes without putting personal data on-chain.
 
 ```bash
